@@ -1,0 +1,30 @@
+body {
+  background-color: #DBD5CC;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'VT323', serif;
+}
+
+#container {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 35%;
+  top: 30%;
+}
+
+#icons {
+  margin: 7%;
+}
+
+.icon {
+  margin: 3%;
+  color: black;
+}
+
+.description {
+  font-family: 'VT323';
+  font-size: 125%;
+}
